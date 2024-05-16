@@ -1,0 +1,4 @@
+    用openOCD debug?
+
+-f interface/cmsis-dap.cfg
+-f target/stm32f1x.cfg
